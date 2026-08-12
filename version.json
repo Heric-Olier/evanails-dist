@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "apkUrl": "https://raw.githubusercontent.com/Heric-Olier/evanails-dist/main/eva-nails-v2.5.1.apk",
-  "apkUrlFallback": "https://github.com/Heric-Olier/evanails-dist/releases/download/v2.5.1/eva-nails-v2.5.1.apk",
-  "apkUrlLocal": "http://192.168.1.3:8099/eva-nails-v2.5.1.apk",
-  "sha256": "3d95a66025aba2f9eda118da08078a8c0a0c43d24a0df2ce8f8d840866f89b0c",
-  "notes": "Nueva versión v2.5.1 de Eva Nails."
+  "version": "2.5.2",
+  "apkUrl": "https://raw.githubusercontent.com/Heric-Olier/evanails-dist/main/eva-nails-v2.5.2.apk",
+  "apkUrlFallback": "https://github.com/Heric-Olier/evanails-dist/releases/download/v2.5.2/eva-nails-v2.5.2.apk",
+  "apkUrlLocal": "http://192.168.1.3:8099/eva-nails-v2.5.2.apk",
+  "sha256": "d992c16165f1e712977cc26f04da6c49993adf0e35445002b56485293dcb89e5",
+  "notes": "Nueva versión v2.5.2 de Eva Nails."
 }
