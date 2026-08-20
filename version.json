@@ -1,8 +1,8 @@
 {
-  "version": "2.6.4",
-  "apkUrl": "https://raw.githubusercontent.com/Heric-Olier/evanails-dist/main/eva-nails-v2.6.4.apk",
-  "apkUrlFallback": "https://github.com/Heric-Olier/evanails-dist/releases/download/v2.6.4/eva-nails-v2.6.4.apk",
-  "apkUrlLocal": "http://192.168.1.3:8099/eva-nails-v2.6.4.apk",
-  "sha256": "9e12ac541bd31d36471787f6dced02d5ab5ec584a4382907f6d73642506e3093",
-  "notes": "Nueva versión v2.6.4 de Eva Nails."
+  "version": "2.6.5",
+  "apkUrl": "https://raw.githubusercontent.com/Heric-Olier/evanails-dist/main/eva-nails-v2.6.5.apk",
+  "apkUrlFallback": "https://github.com/Heric-Olier/evanails-dist/releases/download/v2.6.5/eva-nails-v2.6.5.apk",
+  "apkUrlLocal": "http://192.168.1.3:8099/eva-nails-v2.6.5.apk",
+  "sha256": "d1105aa5296685d212d208b5625424ef033b997be36155b0bd8f7c26e2490141",
+  "notes": "v2.6.5 — arquitectura multi-tenant: cada cuenta accede solo a su negocio."
 }
